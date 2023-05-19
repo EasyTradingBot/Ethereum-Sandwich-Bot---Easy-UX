@@ -6,5 +6,3 @@ essentially sandwiching the pending TX and forcing ours to automatically be proc
 profiting off of the slippage differences.
 
 tutorial: https://jorj.gitbook.io/anatomy-of-mev-ethereum-bots-2023/
-OR
-video tutorial: https://youtu.be/6PVkbV7nbc4
